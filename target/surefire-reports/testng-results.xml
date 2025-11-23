@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-11-23T18:49:25 IST" name="Suite" finished-at="2025-11-23T18:49:35 IST" duration-ms="10014">
+    <groups>
+      <group name="Master">
+        <method signature="TC002_VerifyLoginTest.verifyLoginFunctionality()[pri:0, instance:TestCases.TC002_VerifyLoginTest@345f69f3]" name="verifyLoginFunctionality" class="TestCases.TC002_VerifyLoginTest"/>
+      </group> <!-- Master -->
+      <group name="Regression">
+        <method signature="TC002_VerifyLoginTest.verifyLoginFunctionality()[pri:0, instance:TestCases.TC002_VerifyLoginTest@345f69f3]" name="verifyLoginFunctionality" class="TestCases.TC002_VerifyLoginTest"/>
+      </group> <!-- Regression -->
+    </groups>
+    <test started-at="2025-11-23T18:49:25 IST" name="Test" finished-at="2025-11-23T18:49:35 IST" duration-ms="10014">
+      <class name="TestCases.TC002_VerifyLoginTest">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:TestCases.TC002_VerifyLoginTest@345f69f3]" started-at="2025-11-23T18:49:26 IST" name="setup" finished-at="2025-11-23T18:49:31 IST" duration-ms="5316" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyLoginFunctionality()[pri:0, instance:TestCases.TC002_VerifyLoginTest@345f69f3]" started-at="2025-11-23T18:49:31 IST" name="verifyLoginFunctionality" finished-at="2025-11-23T18:49:35 IST" duration-ms="3674" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginFunctionality -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestCases.TC002_VerifyLoginTest@345f69f3]" started-at="2025-11-23T18:49:35 IST" name="tearDown" finished-at="2025-11-23T18:49:35 IST" duration-ms="256" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestCases.TC002_VerifyLoginTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

@@ -1,0 +1,13 @@
+2025-11-23 02:19:26 INFO  [TestCases.TC001_VerifyAccountRegistrationTest] - ******* Starting 001 Test ********
+2025-11-23 02:19:26 INFO  [TestCases.TC001_VerifyAccountRegistrationTest] - clicking on my account drop menu!
+2025-11-23 02:19:26 INFO  [TestCases.TC001_VerifyAccountRegistrationTest] - clicking on register button drop menu!
+2025-11-23 02:19:27 INFO  [TestCases.TC001_VerifyAccountRegistrationTest] - entering first name!
+2025-11-23 02:19:27 INFO  [TestCases.TC001_VerifyAccountRegistrationTest] - entering last name!
+2025-11-23 02:19:27 INFO  [TestCases.TC001_VerifyAccountRegistrationTest] - entering email name!
+2025-11-23 02:19:27 INFO  [TestCases.TC001_VerifyAccountRegistrationTest] - entering telephone number!
+2025-11-23 02:19:27 INFO  [TestCases.TC001_VerifyAccountRegistrationTest] - entering password!
+2025-11-23 02:19:27 INFO  [TestCases.TC001_VerifyAccountRegistrationTest] - entering confirm password!
+2025-11-23 02:19:27 INFO  [TestCases.TC001_VerifyAccountRegistrationTest] - selecting checkBox!
+2025-11-23 02:19:27 INFO  [TestCases.TC001_VerifyAccountRegistrationTest] - Clicking on continue button!
+2025-11-23 02:19:28 INFO  [TestCases.TC001_VerifyAccountRegistrationTest] - Verifying success message!
+2025-11-23 02:19:28 INFO  [TestCases.TC001_VerifyAccountRegistrationTest] - ******* Finished 001 Test ********

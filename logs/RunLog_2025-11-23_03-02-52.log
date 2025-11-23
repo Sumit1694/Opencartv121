@@ -1,0 +1,8 @@
+2025-11-23 03:02:58 INFO  [TestCases.TC002_VerifyLoginTest] -  ******Starting TC_002 Login Test ******
+2025-11-23 03:02:58 INFO  [TestCases.TC002_VerifyLoginTest] - Clicked on my account drop menu
+2025-11-23 03:02:58 INFO  [TestCases.TC002_VerifyLoginTest] - Clicked on login button
+2025-11-23 03:02:59 INFO  [TestCases.TC002_VerifyLoginTest] - entering email
+2025-11-23 03:02:59 INFO  [TestCases.TC002_VerifyLoginTest] - entering password
+2025-11-23 03:02:59 INFO  [TestCases.TC002_VerifyLoginTest] - clicking on login button
+2025-11-23 03:02:59 INFO  [TestCases.TC002_VerifyLoginTest] - verifying user is landed on my account page!
+2025-11-23 03:03:00 INFO  [TestCases.TC002_VerifyLoginTest] -  ******Finished TC_002 Login Test ******

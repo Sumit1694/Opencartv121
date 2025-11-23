@@ -1,0 +1,12 @@
+C:\Users\Sumit\eclipse-workspace\NewAccount02092025\HybridFrameworkPract1\src\test\java\pageObjects\BasePage.java
+C:\Users\Sumit\eclipse-workspace\NewAccount02092025\HybridFrameworkPract1\src\test\java\pageObjects\HomePage.java
+C:\Users\Sumit\eclipse-workspace\NewAccount02092025\HybridFrameworkPract1\src\test\java\pageObjects\LoginPage.java
+C:\Users\Sumit\eclipse-workspace\NewAccount02092025\HybridFrameworkPract1\src\test\java\pageObjects\MyAccountPage.java
+C:\Users\Sumit\eclipse-workspace\NewAccount02092025\HybridFrameworkPract1\src\test\java\pageObjects\RegisterAccount.java
+C:\Users\Sumit\eclipse-workspace\NewAccount02092025\HybridFrameworkPract1\src\test\java\testBase\BaseClass.java
+C:\Users\Sumit\eclipse-workspace\NewAccount02092025\HybridFrameworkPract1\src\test\java\TestCases\TC001_VerifyAccountRegistrationTest.java
+C:\Users\Sumit\eclipse-workspace\NewAccount02092025\HybridFrameworkPract1\src\test\java\TestCases\TC002_VerifyLoginTest.java
+C:\Users\Sumit\eclipse-workspace\NewAccount02092025\HybridFrameworkPract1\src\test\java\TestCases\TC003_VerifyDDTTest.java
+C:\Users\Sumit\eclipse-workspace\NewAccount02092025\HybridFrameworkPract1\src\test\java\utilities\DataProviders.java
+C:\Users\Sumit\eclipse-workspace\NewAccount02092025\HybridFrameworkPract1\src\test\java\utilities\ExcelUtility.java
+C:\Users\Sumit\eclipse-workspace\NewAccount02092025\HybridFrameworkPract1\src\test\java\utilities\ExtentReportManager.java

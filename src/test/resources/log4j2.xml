@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="WARN">
+
+    <Properties>
+        <!-- Unique file for every run -->
+        <Property name="timestamp">${date:yyyy-MM-dd_HH-mm-ss}</Property>
+        <Property name="logDir">logs</Property>
+    </Properties>
+
+    <Appenders>
+
+        <!-- Single file per execution -->
+        <File name="ExecutionLog"
+              fileName="${logDir}/RunLog_${timestamp}.log"
+              append="false">
+
+            <PatternLayout pattern="%d{yyyy-MM-dd HH:mm:ss} %-5level [%c] - %msg%n"/>
+        </File>
+
+        <!-- Optional: Clean console -->
+        <Console name="Console" target="SYSTEM_OUT">
+            <PatternLayout pattern="%msg%n"/>
+        </Console>
+
+    </Appenders>
+
+    <Loggers>
+
+        <!-- Suppress external noise -->
+        <Logger name="org.openqa.selenium" level="off"/>
+        <Logger name="org.apache.http" level="off"/>
+        <Logger name="com.aventstack" level="off"/>
+        <Logger name="org.testng" level="off"/>
+        <Logger name="io.cucumber" level="off"/>
+        <Logger name="org.apache" level="off"/>
+        <Logger name="org.hibernate" level="off"/>
+        <Logger name="net.bytebuddy" level="off"/>
+        <Logger name="jdk.internal" level="off"/>
+
+        <!-- Your application logs -->
+        <Root level="All">
+            <AppenderRef ref="ExecutionLog"/>
+            <AppenderRef ref="Console"/>
+        </Root>
+
+    </Loggers>
+
+</Configuration>
